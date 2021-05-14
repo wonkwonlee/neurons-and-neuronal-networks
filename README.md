@@ -1,6 +1,6 @@
 # Models of Neurons and Neuronal Networks
 
-## UoM CS Final Year Project COMP30030
+## UoM CS Final Year Project
 This project is my final year project for Department of Computer Science at the University of Manchester.
 
 A Python GUI simulator was implemented, and simulations were conducted to analyze
