@@ -3,8 +3,16 @@
 ## UoM CS Final Year Project
 This project is my final year project for Department of Computer Science at the University of Manchester.
 
-A Python GUI simulator was implemented, and simulations were conducted to analyze
+A Python GUI neuronal network simulator was implemented, and simulations were conducted to analyze
 different dynamical behaviors appearing in single neurons or neuronal networks and examine the synchronicity of the system.
+
+## Keywords
+* Spiking Neural Network (SNN)
+* Brain-Inspired AI
+* Computational Neuroscience
+* Nonlinear System
+* Dynamical System
+
 
 ## Software Tools
 * Python3
