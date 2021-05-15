@@ -35,11 +35,11 @@ Regular Firing Patterns    | Bursting Firing Patterns  | Fast Firing Patterns
 ![regular](figure/adex/regular.png) | ![burst](figure/adex/bursting.png) | ![fast](figure/adex/fast.png)
 
 ![GUI](figure/GUI.png)
+![rd](figure/simulation/randomvinit.jpeg)
 ![rg](figure/simulation/regular.jpeg)
 ![b3](figure/simulation/bursting3.jpeg)
 ![b8](figure/simulation/busting8.jpeg)
 ![fg](figure/simulation/fastg.jpeg)
-![rd](figure/simulation/randomvinit.jpeg)
 
 
 ## Result
