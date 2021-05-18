@@ -16,7 +16,7 @@ different dynamical behaviors appearing in single neurons or neuronal networks a
 
 ## Software Tools
 * Python3
-* [Brain2](https://brian2.readthedocs.io/en/stable/) - Open-soruce Python Simulator for spiking neural networks
+* [Brian2](https://brian2.readthedocs.io/en/stable/) - Open-soruce Python Simulator for spiking neural networks
 * [Neurodynex](https://github.com/EPFL-LCN/neuronaldynamics-exercises) - Python exercises for the book [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/index.html) by Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski
 * [PyDSTool](https://pypi.org/project/PyDSTool/) - Simulation and analysis environment for dynamical systems models of physical systems (ODEs, DAEs, maps, and hybrid systems)
 * [PyQt5](https://pypi.org/project/PyQt5/) - GUI widgets toolkit
