@@ -43,7 +43,7 @@ Regular Firing Patterns    | Bursting Firing Patterns  | Fast Firing Patterns
 
 
 ## Result
-The final project report of was selected as one of the best papers in 2018 and was published on the Department of Computer Science at the University of Manchester.
+The research project report was published on the UoM departmental website and was selected as one of the best papers in 2018.
 
 The report was written in LaTex via [Overleaf](https://www.overleaf.com/), and the PDF version is included in this repository.
 
