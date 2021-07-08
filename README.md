@@ -16,17 +16,17 @@ different dynamical behaviors appearing in single neurons or neuronal networks a
 
 ## Software Tools
 * Python3
-* [Brian2](https://brian2.readthedocs.io/en/stable/) - Open-soruce Python Simulator for spiking neural networks
-* [Neurodynex](https://github.com/EPFL-LCN/neuronaldynamics-exercises) - Python exercises for the book [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/index.html) by Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski
+* [Brian2](https://brian2.readthedocs.io/en/stable/) - Open-source Python Simulator for spiking neural networks
+* [Neurodynex](https://github.com/EPFL-LCN/neuronaldynamics-exercises) - Python exercises for the book [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/index.html) by Wulfram Gerstner, Werner M. Kistler, Richard Naud, and Liam Paninski
 * [PyDSTool](https://pypi.org/project/PyDSTool/) - Simulation and analysis environment for dynamical systems models of physical systems (ODEs, DAEs, maps, and hybrid systems)
 * [PyQt5](https://pypi.org/project/PyQt5/) - GUI widgets toolkit
 
 
 ## Abstract
-*Despite its size, a neuron is a very complicated entity; without sufficient biological and mathematical background knowledge, simulations of the neuronal network is out of reach. 
-Therefore, the aim of the thesis is to implement networks of biologically accurate neuron models within computationally feasible cost and to simulate and analyse various electrophysiological behaviours including firing patterns of spiking neurons and the emergence of synchronisation. 
+*Despite its size, a neuron is a very complicated entity; without sufficient biological and mathematical background knowledge, simulations of the neuronal network are out of reach. 
+Therefore, the aim of the thesis is to implement networks of biologically accurate neuron models within computationally feasible cost and to simulate and analyze various electrophysiological behaviors including firing patterns of spiking neurons and the emergence of synchronization. 
 As a result, several mathematical models of single neurons and networks of neurons were explored and simulated. 
-In addition to this, the synchronisation property of a network of neurons was analysed in the presence and absence of the background stimuli.*
+In addition to this, the synchronization property of a network of neurons was analyzed in the presence and absence of the background stimuli.*
 
 
 ## Figures
